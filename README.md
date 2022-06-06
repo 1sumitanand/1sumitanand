@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @1sumitanand
+- 👀 I work in R&D so I do always experiments with new ideas to have better understanding. 
+- 🌱 After visualization & datascience, I’m currently experimenting on deep learning.
+- 💞️ I’m looking to collaborate on new deep learning projects on semiconductor & metrological domain.
+- 📫 You can reach me on sumitrockey@gmail.com to discuss further on any topics.
